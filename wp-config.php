@@ -19,10 +19,10 @@
 define('DB_NAME', 'ids_feria');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'root');
+define('DB_USER', '');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', 'tiburon');
+define('DB_PASSWORD', '');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 define('DB_HOST', '127.0.0.1');
